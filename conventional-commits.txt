@@ -1,4 +1,4 @@
-Tipo	Significa	Ejemplo
+Tipo	Significa
 
 feat	    Nueva funcionalidad	feat(ingesta): añadir lectura de ficheros CSV
 fix	        Corrección de un error	fix(etl): corregir formato de fechas
